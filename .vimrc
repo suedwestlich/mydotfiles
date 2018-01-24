@@ -15,4 +15,3 @@ let mapleader=","
 
 " Colorscheme see https://github.com/hukl/Smyck-Color-Scheme
 color smyck
-
